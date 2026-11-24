@@ -40,3 +40,7 @@ Connector documentation: <https://api.grantconnect.ca/mcp/docs>
 Support: grantconnect@imaginecanada.ca
 
 Privacy policy: <https://imaginecanada.ca/en/privacy>
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE). The license does not grant rights to the Imagine Canada or Grant Connect names or logos.
