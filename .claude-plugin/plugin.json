@@ -16,5 +16,6 @@
     "canada",
     "prospect-research"
   ],
-  "privacyPolicyUrl": "https://imaginecanada.ca/en/privacy"
+  "privacyPolicyUrl": "https://imaginecanada.ca/en/privacy",
+  "icon": ".claude-plugin/icon.png"
 }
