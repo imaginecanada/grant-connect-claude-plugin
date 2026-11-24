@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "grant-connect": {
+      "type": "http",
+      "url": "https://api.grantconnect.ca/api/mcp"
+    }
+  }
+}

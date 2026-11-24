@@ -1,0 +1,15 @@
+{
+  "name": "grant-connect",
+  "description": "Grant Connect by Imagine Canada: prospect research for Canadian nonprofits in Claude.",
+  "owner": {
+    "name": "Imagine Canada",
+    "email": "grantconnect@imaginecanada.ca"
+  },
+  "plugins": [
+    {
+      "name": "grant-connect",
+      "source": "./",
+      "description": "Prospect research for Canadian nonprofits with Grant Connect by Imagine Canada."
+    }
+  ]
+}

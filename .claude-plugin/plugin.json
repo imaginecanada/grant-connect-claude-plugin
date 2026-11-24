@@ -1,0 +1,20 @@
+{
+  "name": "grant-connect",
+  "version": "1.0.0",
+  "description": "Find and qualify funders for Canadian nonprofits and charities with Grant Connect by Imagine Canada: search foundations and grantmakers, check programs, deadlines and gift history, and build on your organization's pipeline.",
+  "author": {
+    "name": "Imagine Canada",
+    "email": "grantconnect@imaginecanada.ca",
+    "url": "https://imaginecanada.ca"
+  },
+  "homepage": "https://api.grantconnect.ca/mcp/docs",
+  "keywords": [
+    "fundraising",
+    "grants",
+    "foundations",
+    "nonprofit",
+    "canada",
+    "prospect-research"
+  ],
+  "privacyPolicyUrl": "https://imaginecanada.ca/en/privacy"
+}
